@@ -56,4 +56,12 @@ li img{
     width: 150px;
     height: 150px;
     border: 1px solid #ea465f;
+    border-radius: 50%;
+}
+.contato{
+    display:block;
+    justify-content: center;
+    list-style-type: none;
+    padding: 50px;
+    text-align: center;
 }
